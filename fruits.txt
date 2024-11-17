@@ -1,3 +1,5 @@
 Orange
 Apple
 Grape fruit
+Carrot
+Pineapple
