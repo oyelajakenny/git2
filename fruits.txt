@@ -1,3 +1,5 @@
 Grapes
 Apple
 Grape fruit
+Carrot
+Pineapple
